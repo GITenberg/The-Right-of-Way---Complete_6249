@@ -1,0 +1,29 @@
+_repo: The-Right-of-Way---Complete_6249
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Parker, Gilbert
+    aliases:
+    - Parker, Horatio Gilbert
+    - Parker, Gilbert, Sir, bart.
+    birthdate: 1862
+    deathdate: 1932
+    gutenberg_agent_id: '1285'
+    url: http://www.gutenberg.org/2009/agents/1285
+    wikipedia: http://en.wikipedia.org/wiki/Gilbert_Parker
+description: ''
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2004-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6249'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Canadian fiction'
+- GITenberg
+title: The Right of Way — Complete
+url: http://www.gutenberg.org/ebooks/6249
