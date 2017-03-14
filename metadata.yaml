@@ -1,5 +1,8 @@
 _repo: The-Right-of-Way---Complete_6249
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Parker, Gilbert
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1285
     wikipedia: http://en.wikipedia.org/wiki/Gilbert_Parker
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6249#The-Right-of-Way---Complete
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2004-11-18'
 gutenberg_type: Text
